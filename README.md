@@ -86,7 +86,7 @@ HTML5, CSS3 (via Jinja2 templates)
 ![Homepage](homepage.png)
 
 ### 🔹 Recipe Results
-![Result_page](result1,png)
+![Result_page](result1.png)
 
 
 
