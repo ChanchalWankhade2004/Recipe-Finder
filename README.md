@@ -82,10 +82,11 @@ Flask
 HTML5, CSS3 (via Jinja2 templates)
 
 🖼 Screenshots
-(Add screenshots here after running the app, e.g., homepage, results page)
+### 🔹 Homepage
+![Homepage](homepage.png)
 
-
-
+### 🔹 Recipe Results
+![Result1](result1,png)
 
 
 
